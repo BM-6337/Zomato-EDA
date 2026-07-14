@@ -113,7 +113,7 @@ Clone the repository.
 ```bash
 git clone https://github.com/BM-6337/Zomato-EDA.git
 
-cd zomato-EDA
+cd Zomato-EDA
 ```
 
 Install the required dependencies.
